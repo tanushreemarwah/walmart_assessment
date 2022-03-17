@@ -1,0 +1,82 @@
+body {
+  color: #173143;
+  font-size: 14px;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.btn {
+  max-width: 150px;
+  margin: 0 10px;
+}
+.right {
+  float: right;
+}
+
+.card-title {
+  font-weight: bold;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.card-body {
+  color: #0000009c;
+  padding: 10px 15px !important;
+}
+
+.subtext {
+  font-weight: lighter;
+}
+
+.users, .profile {
+  margin-top: 20px;
+}
+
+#user-name-header {
+  margin: 10px 0;
+}
+.posts-top-row {
+  padding: 30px 0;
+}
+
+.post-container,
+.post,
+.commenter-name {
+  padding: 10px;
+}
+
+.comments-container {
+  margin: 10px 20px;
+  font-size: 12px;
+}
+
+.comment-title {
+  font-size: 14px;
+}
+
+.comments-header {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.comment {
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background: #f6f6f6;
+}
+
+.commenter-name,
+.commenter-name > p {
+  margin: 0 !important;
+}
+
+.commenter-name > small {
+  color: #0000004d;
+}
+
+.albums {
+  margin: 20px 0;
+}
