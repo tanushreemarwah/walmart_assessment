@@ -1,6 +1,6 @@
-# Walmart Homework Assignment
+# User's Home (Walmart Homework Assignment)
 
-Create a simple application to list Users and show User details page using Fake JSON APIs. 
+Create a simple application to list Users and show their posts, comments and albums on User details page using Fake JSON APIs. 
 
 ## This application is written in : 
 
